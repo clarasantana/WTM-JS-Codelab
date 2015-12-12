@@ -1,0 +1,22 @@
+body{
+	background-image: url('background.jpg');
+	text-align: center;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 24px;
+}
+#my-photo{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: 1px solid #fff;
+}
+ul{
+	list-style-type: none;
+}
+#find-me li{
+	display: inline-block;	
+}
+#find-me img{
+	width: 2em;
+	height: 2em;
+}
